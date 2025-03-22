@@ -1,0 +1,7 @@
+numpy
+gym
+stable-baselines3
+torch
+tensorboard
+carla
+matplotlib

@@ -5,3 +5,4 @@ torch
 tensorboard
 carla
 matplotlib
+opencv-python
